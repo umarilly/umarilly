@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Umar</h1>
-<h4 align="center" align="justify" > I am a graduate of Information Technology, and my focus lies in web development, driven by a passion for crafting innovative IT solutions. Proficient across development domains and enriched by a blend of academic excellence and practical projects, I've honed expertise in both front-end and back-end technologies. Ready to contribute to cutting-edge technology, I aim to launch a career that harmonizes creativity with technical prowess, aiming to deliver impactful solutions in web development.</h4>
+<h4 align="justify" > I am a graduate of Information Technology, and my focus lies in web development, driven by a passion for crafting innovative IT solutions. Proficient across development domains and enriched by a blend of academic excellence and practical projects, I've honed expertise in both front-end and back-end technologies. Ready to contribute to cutting-edge technology, I aim to launch a career that harmonizes creativity with technical prowess, aiming to deliver impactful solutions in web development.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umarilly&label=Profile%20views&color=0e75b6&style=flat" alt="umarilly" /> </p>
 
