@@ -184,10 +184,12 @@ Agile/Scrum · SOLID Principles · Clean Code · Code Reviews · CI/CD · Onboar
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=umarilly&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umarilly&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
 <img src="https://streak-stats.demolab.com?user=umarilly&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<p>
+  <img src="https://img.shields.io/github/followers/umarilly?style=for-the-badge&logo=github&color=4A5CE0" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/umarilly?style=for-the-badge&logo=github&color=4A5CE0&label=Total%20Stars" alt="Total Stars" />
+</p>
 
 </div>
 
